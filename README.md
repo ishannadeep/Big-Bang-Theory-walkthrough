@@ -12,3 +12,5 @@ lets try to execute sheldon1 file. It says it is a bomb and we need to defuse it
 ![Capture5](https://user-images.githubusercontent.com/22831322/76165220-3ff34280-617b-11ea-8cf0-6f6d88792f8b.PNG)
 
 Let’s see what inside the secret_phase. Type "disass secret_phase"
+
+![Capture6](https://user-images.githubusercontent.com/22831322/76165264-9496bd80-617b-11ea-88e1-d86d1811e990.PNG)
