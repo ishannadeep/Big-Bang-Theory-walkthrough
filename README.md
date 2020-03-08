@@ -18,3 +18,4 @@ Let’s see what inside the secret_phase. Type "disass secret_phase"
 
 ![Capture7](https://user-images.githubusercontent.com/22831322/76168656-ca499f80-6197-11ea-8392-ee02f1c4f7fd.PNG)
 
+![Capture8](https://user-images.githubusercontent.com/22831322/76168694-04b33c80-6198-11ea-9d4a-8442d8199958.PNG)
