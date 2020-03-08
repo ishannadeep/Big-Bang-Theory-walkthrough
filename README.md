@@ -14,3 +14,4 @@ lets try to execute sheldon1 file. It says it is a bomb and we need to defuse it
 Let’s see what inside the secret_phase. Type "disass secret_phase"
 
 ![Capture6](https://user-images.githubusercontent.com/22831322/76165264-9496bd80-617b-11ea-88e1-d86d1811e990.PNG)
+ Now lets take a look at the another function called "phase_1".when disassemble it we can see the special memory location called "0x80497c0".If we print that value inside it in a string format we get "Public speaking is very easy.".now we need to insert this string after executing the program.
