@@ -6,3 +6,5 @@ lets try to execute sheldon1 file. It says it is a bomb and we need to defuse it
 ![Capture2](https://user-images.githubusercontent.com/22831322/76165180-f0ad1200-617a-11ea-8e94-be46a4f4e021.PNG)
 
 ![Capture3](https://user-images.githubusercontent.com/22831322/76165201-0de1e080-617b-11ea-9a01-8ff452038b31.PNG)
+
+![Capture4](https://user-images.githubusercontent.com/22831322/76165210-2651fb00-617b-11ea-9453-a2153c5fc751.PNG)
